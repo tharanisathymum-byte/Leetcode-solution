@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0008-string-to-integer-atoi) |
 | [1528-shuffle-string](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
