@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0027-remove-element) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1512-number-of-good-pairs) |
@@ -66,5 +67,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
