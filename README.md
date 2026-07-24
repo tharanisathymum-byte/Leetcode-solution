@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0014-longest-common-prefix) |
+| [0412-fizz-buzz](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0412-fizz-buzz) |
 | [1528-shuffle-string](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Matrix
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2235-add-two-integers) |
