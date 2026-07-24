@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0066-plus-one) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2469-convert-the-temperature) |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
