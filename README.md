@@ -108,4 +108,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0242-valid-anagram) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
