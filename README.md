@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Bit Manipulation
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
