@@ -142,12 +142,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 ## Recursion
 |  |
 | ------- |
