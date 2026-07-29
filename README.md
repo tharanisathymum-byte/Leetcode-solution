@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0036-valid-sudoku) |
 | [1672-richest-customer-wealth](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0217-contains-duplicate) |
