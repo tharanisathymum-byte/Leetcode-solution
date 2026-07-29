@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -232,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0011-container-with-most-water) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
