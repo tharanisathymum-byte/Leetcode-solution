@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2942-find-words-containing-character) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0045-jump-game-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Backtracking
 |  |
 | ------- |
