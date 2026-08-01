@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Sliding Window
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0486-predict-the-winner) |
