@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0242-valid-anagram) |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1406-stone-game-iii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
