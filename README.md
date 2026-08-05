@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0118-pascals-triangle) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0344-reverse-string) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Matrix
