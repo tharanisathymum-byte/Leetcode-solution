@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Simulation
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0344-reverse-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Linked List
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0045-jump-game-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
