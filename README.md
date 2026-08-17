@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1528-shuffle-string) |
+| [1563-stone-game-v](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1563-stone-game-v) |
 | [1672-richest-customer-wealth](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1512-number-of-good-pairs) |
+| [1563-stone-game-v](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2469-convert-the-temperature) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
