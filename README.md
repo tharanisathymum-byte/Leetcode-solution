@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0242-valid-anagram) |
+| [1386-cinema-seat-allocation](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1512-number-of-good-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1386-cinema-seat-allocation](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 ## Sorting
 |  |
 | ------- |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0045-jump-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
