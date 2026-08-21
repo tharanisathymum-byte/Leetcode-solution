@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3731-find-missing-elements) |
 ## String
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Sorting
 |  |
 | ------- |
@@ -394,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bubble Sort
 |  |
@@ -420,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
