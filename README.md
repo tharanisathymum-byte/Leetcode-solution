@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1563-stone-game-v) |
 | [1672-richest-customer-wealth](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1773-count-items-matching-a-rule) |
+| [1872-stone-game-viii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1872-stone-game-viii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2029-stone-game-ix) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2235-add-two-integers) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -386,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2029-stone-game-ix) |
 ## Quicksort
 |  |
@@ -413,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
