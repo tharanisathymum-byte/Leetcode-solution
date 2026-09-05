@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
 | ------- |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1872-stone-game-viii) |
+| [3904-smallest-stable-index-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3904-smallest-stable-index-ii) |
 ## Nim Game
 |  |
 | ------- |
