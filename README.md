@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0486-predict-the-winner) |
+| [0506-relative-ranks](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0506-relative-ranks) |
 | [0877-stone-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1386-cinema-seat-allocation) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Stack
 |  |
