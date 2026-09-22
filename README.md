@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0283-move-zeroes) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0242-valid-anagram) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0414-third-maximum-number) |
@@ -474,4 +479,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
