@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0069-sqrtx) |
+| [0292-nim-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0877-stone-game) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1025-divisor-game) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1510-stone-game-iv) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
@@ -491,9 +495,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1025-divisor-game) |
 ## Impartial Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
