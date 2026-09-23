@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3731-find-missing-elements) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
