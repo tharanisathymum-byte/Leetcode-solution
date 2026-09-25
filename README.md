@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0520-detect-capital) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1773-count-items-matching-a-rule) |
