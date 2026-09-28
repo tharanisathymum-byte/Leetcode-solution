@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0412-fizz-buzz) |
+| [0459-repeated-substring-pattern](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0520-detect-capital) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1528-shuffle-string) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0459-repeated-substring-pattern) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -515,4 +517,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1025-divisor-game) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
