@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0506-relative-ranks) |
+| [0832-flipping-an-image](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1386-cinema-seat-allocation) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0412-fizz-buzz) |
+| [0832-flipping-an-image](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0832-flipping-an-image) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2974-minimum-number-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0074-search-a-2d-matrix) |
+| [0832-flipping-an-image](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0832-flipping-an-image](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0832-flipping-an-image) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Linked List
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
