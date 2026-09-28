@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1773-count-items-matching-a-rule) |
 | [1872-stone-game-viii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1872-stone-game-viii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2029-stone-game-ix) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1773-count-items-matching-a-rule) |
 | [1927-sum-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1927-sum-game) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
