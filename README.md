@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2974-minimum-number-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Matrix
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/2029-stone-game-ix) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Minimax
 |  |
 | ------- |
