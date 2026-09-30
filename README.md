@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0520-detect-capital) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1528-shuffle-string) |
+| [1768-merge-strings-alternately](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1773-count-items-matching-a-rule) |
 | [1927-sum-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0832-flipping-an-image](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0832-flipping-an-image) |
+| [1768-merge-strings-alternately](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Linked List
