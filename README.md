@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0520-detect-capital) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1768-merge-strings-alternately) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1025-divisor-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1406-stone-game-iii) |
@@ -539,4 +541,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/0459-repeated-substring-pattern) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/tharanisathymum-byte/Leetcode-solution/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
